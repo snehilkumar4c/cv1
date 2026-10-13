@@ -1,0 +1,27 @@
+NUGGET BFSI OUTREACH PLAN: 40 CXO MEETINGS IN 4 WEEKS
+
+THE MATH
+Cold outreach to CXOs converts at 1-3%, so cold alone won't get to 40. Aim for 55 booked to cover no-shows:
+- 15 from warm intros (Zomato/Eternal network, investors, Nugget customers)
+- 15 from value-first cold outreach
+- 10 from events, CXO roundtables and LinkedIn content
+
+TARGETS
+About 70 accounts: the top 25 banks and about 45 insurers, ranked into 3 tiers.
+5-7 people at each: CEO, COO, Chief Customer Officer, CDO/CIO, Head of Contact Centre, Head of Digital (about 400 contacts).
+
+THE HOOK: A FREE AI SUPPORT AUDIT
+An AI agent tests each bank's or insurer's chatbot, IVR and WhatsApp with 30 real customer queries in English, Hindi and regional languages. The CXO gets a one-page scorecard: "Your bot resolved 9 of 30." It's specific, costs them nothing, and points straight at what Nugget fixes.
+AI stack: Sales Navigator/Apollo/Clay for lists, Claude/ChatGPT for account briefs (annual reports, RBI and IRDAI complaint data), LLM-drafted messages edited by a person, Loom videos, Instantly for sequencing, HubSpot as CRM.
+
+WEEK BY WEEK
+Week 1 - Build: warm new email domains, build the list, audit the top 30 accounts, send warm-intro asks. Target: 8 meetings
+Week 2 - Launch: tier 1 sequence (email + scorecard, LinkedIn, Loom, call); founders post audit insights. Target: 20 total
+Week 3 - Scale: tier 2 sequence, reach several people per account, roundtable 1. Target: 32 total
+Week 4 - Close: roundtable 2, re-engage warm leads, ask every meeting for a referral. Target: 40+ total
+
+GUARDRAILS
+- A meeting counts only with a CXO or their named delegate and a clear next step.
+- Follow DPDP and TRAI DND rules; keep email volume low.
+- Track progress daily. If behind after week 2, move effort to warm intros and roundtables.
+- From Nugget: 2 hours a week of founder time, one customer metric to cite, and a budget for tools and events.
