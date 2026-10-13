@@ -1,0 +1,10 @@
+Goal: 40 CXO meetings at top Indian banks and insurers in 4 weeks. Cold outreach converts at 1-3%, so I'd use three channels:
+1. Warm intros (15): Zomato/Eternal network, investors, Nugget customers.
+2. Cold outreach (15): about 70 accounts, 400 contacts (CEO, COO, CCO, CDO, Head of CX).
+3. Events and roundtables (10): two CXO roundtables plus founder posts on LinkedIn.
+
+The hook is a free AI support audit: an AI agent tests each target's chatbot and IVR with 30 real queries in English, Hindi and regional languages, then sends the CXO a scorecard ("Your bot resolved 9 of 30").
+AI tools: Clay/Apollo to build lists, Claude to research accounts, LLMs to draft messages (edited by a person), Loom videos, Instantly to send.
+
+Plan: Wk1 build lists and audits (8 meetings); Wk2 start tier 1 (20 total); Wk3 tier 2 plus a roundtable (32); Wk4 follow-ups and referrals (40+).
+Guardrails: meetings count only with a CXO or their named delegate, DPDP/DND-compliant, tracked daily.
